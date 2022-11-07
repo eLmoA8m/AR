@@ -1,0 +1,3 @@
+-- > Añadir la funcionalidad de ver diferentes modelos dentro de la pagina, unicamente haciendo clic con botones 
+-- > Crear nuestro propio render en Blender o Unity 
+-- > Cambiar el "disparador" para utilizar uno mas enfocado con la facultad. 
